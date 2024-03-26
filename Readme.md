@@ -17,12 +17,7 @@ Le projet est organisé comme suit :
   - `model/` : Modèles de données pour les rovers, la grille, etc.
   - `input/` : Classes pour gérer les entrées (fichiers, chaînes, etc.).
   - `Main.java` : Point d'entrée de l'application.
-
-- `test/` : Contient les tests unitaires et d'intégration.
-  - `controller/` : Tests pour la logique de contrôle.
-  - `model/` : Tests pour les modèles de données.
-  - `input/` : Tests pour les classes de gestion des entrées.
-
+    
 ## Installation et Exécution
 
 1. Cloner le dépôt GitHub :
