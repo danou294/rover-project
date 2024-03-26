@@ -35,5 +35,5 @@ cd RoverProject
 3. Executer l'application:
 
 ```bash
-java src/Main.java  
+java -cp src Main
 ```
